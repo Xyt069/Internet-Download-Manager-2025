@@ -1,5 +1,5 @@
 # 🎥 Internet Download Manager Repository  
-Welcome to the Internet Download Manager (IDM) repository! 🚀 This is your go-to source for accessing the powerful features of IDM, a leading tool for downloading files seamlessly from the web. Whether you are a beginner or a seasoned downloader, IDM provides an array of features to enhance your downloading experience.   
+Welcome to the Internet Download Manager (IDM) repository! 🚀 This is your go-to source for accessing the powerful features of IDM, a leading tool for downloading files seamlessly from the web. Whether you are a beginner or a seasoned downloader, IDM provides an array of features to enhance your downloading experience.    
   
 ## 📁 Repository Overview   
 - Name: Internet Download Manager  
