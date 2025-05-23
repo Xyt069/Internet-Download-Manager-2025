@@ -2,7 +2,7 @@
 Welcome to the Internet Download Manager (IDM) repository! 🚀 This is your go-to source for accessing the powerful features of IDM, a leading tool for downloading files seamlessly from the web. Whether you are a beginner or a seasoned downloader, IDM provides an array of features to enhance your downloading experience.    
   
 ## 📁 Repository Overview   
-- Name: Internet Download Manager  
+- Name: Internet Download Manager   
 - About
 Tags: IDM, IDM-free, IDM for windows, IDM 2025, Internet Download Manager, File Downloading, Internet Download Tool, IDM Download, Video Downloader, File Manager, Batch Download, Download Acceleration, Internet Tools, Download Software, Download Assistant
 - Topics: Internet-Download-Manager, IDM, file-downloader, free-software, download-management, pro-version, idm download-manager internet-download-manager idm-reset idm-patch idm-resetter-download idm-license idm-reset-trial idm-full idm-download idm-free-pc idm-free idm-free-windows idm-lifetime internet-download-manager-premium download-manager-software download-manager-tools idm-2025 internet-download-manager-2025
